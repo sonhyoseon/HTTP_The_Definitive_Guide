@@ -14,3 +14,5 @@ HTTP 완벽 가이드 정리
 - [9장 웹 로봇](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%202%EB%B6%80%20%5B9%EC%9E%A5%20%EC%9B%B9%20%EB%A1%9C%EB%B4%87%5D.md)
 - [10장 HTTP/2.0](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%201%EB%B6%80%20%5B10%EC%9E%A5%20HTTP%202.0%5D.md)
 - [11장 클라이언트 식별과 쿠키](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%201%EB%B6%80%20%5B11%EC%9E%A5%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EC%8B%9D%EB%B3%84%EA%B3%BC%20%EC%BF%A0%ED%82%A4%5D.md)
+- [12장 기본 인증](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%203%EB%B6%80%20%5B12%EC%9E%A5%20%EA%B8%B0%EB%B3%B8%20%EC%9D%B8%EC%A6%9D%5D.md)
+- [13장 다이제스트 인증](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%203%EB%B6%80%20%5B13%EC%9E%A5%20%EB%8B%A4%EC%9D%B4%EC%A0%9C%EC%8A%A4%ED%8A%B8%20%EC%9D%B8%EC%A6%9D%5D.md)
