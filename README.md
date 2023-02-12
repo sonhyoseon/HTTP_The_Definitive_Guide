@@ -19,3 +19,4 @@ HTTP 완벽 가이드 정리
 - [14장 보안 HTTP](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%203%EB%B6%80%20%5B14%EC%9E%A5%20%EB%B3%B4%EC%95%88%20HTTP%5D.md)
 - [15장 엔티티와 인코딩](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%204%EB%B6%80%20%5B15%EC%9E%A5%20%EB%B3%B4%EC%95%88%20%EC%97%94%ED%8B%B0%ED%8B%B0%EC%99%80%20%EC%9D%B8%EC%BD%94%EB%94%A9%5D.md)
 - [16장 국제화](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%204%EB%B6%80%20%5B16%EC%9E%A5%20%EA%B5%AD%EC%A0%9C%ED%99%94%5D.md)
+- [17장 내용 협상과 트랜스코딩](https://github.com/sonhyoseon/HTTP_The_Definitive_Guide/blob/main/HTTP%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C%204%EB%B6%80%20%5B17%EC%9E%A5%20%EB%82%B4%EC%9A%A9%20%ED%98%91%EC%83%81%EA%B3%BC%20%ED%8A%B8%EB%9E%9C%EC%8A%A4%EC%BD%94%EB%94%A9%5D.md)
